@@ -4,8 +4,8 @@ div.fixed {
   position: fixed;
   top: 20;
   right: 10;
-  height: 200px;
-  width: 30%;
+  height: 100px;
+  width: 10%;
 }
 
 p {
