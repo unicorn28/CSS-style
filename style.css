@@ -5,14 +5,13 @@ div.fixed {
   top: 40;
   right: 20;
 }
-div.fixed {
+img {
   height: 100px;
-  width: 10%;
+  max-width: 30%;
 }
 
 p {
   font-family: "Times New Roman", Times, serif;
-  color: blue;
 }
   
 
