@@ -2,8 +2,8 @@
 
 div.fixed {
   position: fixed;
-  top: 60;
-  right: 40;
+  top: 40;
+  right: 20;
 }
 img {
   height: 100px;
